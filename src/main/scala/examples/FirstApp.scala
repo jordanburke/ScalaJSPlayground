@@ -1,3 +1,5 @@
+package examples
+
 import scala.scalajs.js.JSApp
 import scala.scalajs.js.annotation.JSExport
 
